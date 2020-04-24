@@ -1,0 +1,10 @@
+ Volume in drive E is New Volume
+ Volume Serial Number is 1AC5-2206
+
+ Directory of E:\Sachin_kulkarni\GitProjects
+
+04/24/2020  08:26 PM    <DIR>          .
+04/24/2020  08:26 PM    <DIR>          ..
+04/24/2020  08:26 PM                 0 test1.txt
+               1 File(s)              0 bytes
+               2 Dir(s)  242,390,691,840 bytes free
